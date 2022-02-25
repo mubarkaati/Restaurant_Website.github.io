@@ -298,27 +298,22 @@ nav ul li a{
 
 #fb:hover{
     color: navy;
-    transition: 0.3s;
 }
 
 #tw:hover{
     color: skyblue;
-    transition: 0.3s;
 }
 
 #ins:hover{
     color: rgb(212, 45, 73);
-    transition: 0.3s;
 }
 
 #ws:hover{
     color: rgb(96, 200, 96);
-    transition: 0.3s;
 }
 
 #yt:hover{
     color: #900000;
-    transition: 0.3s;
 }
 
 /* fourth end from here  */
@@ -364,7 +359,8 @@ nav ul li a{
     
     .im{
         text-align: center;
-        padding-bottom: 30px;
+        padding-top: 30px;
+        padding-bottom: 40px;
         padding-left: 0%;
         padding-right: 5%;
     }
@@ -411,8 +407,7 @@ nav ul li a{
     }
 
     .aimg p img{
-        width: auto;
-        height: 30%;
+        height: 28%;
         width: auto;
         margin: 0%;
         padding: 0%;
@@ -434,6 +429,10 @@ nav ul li a{
 
     .aboutp{
         font-size: 18px;
+    }
+
+    .inside img{
+        height: 20%;
     }
 
     #banner3{
