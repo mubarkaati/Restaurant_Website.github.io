@@ -298,22 +298,27 @@ nav ul li a{
 
 #fb:hover{
     color: navy;
+    transition: all 0.3s ease;
 }
 
 #tw:hover{
     color: skyblue;
+    transition: all 0.3s ease;
 }
 
 #ins:hover{
     color: rgb(212, 45, 73);
+    transition: all 0.3s ease;
 }
 
 #ws:hover{
     color: rgb(96, 200, 96);
+    transition: all 0.3s ease;
 }
 
 #yt:hover{
     color: #900000;
+    transition: all 0.3s ease;
 }
 
 /* fourth end from here  */
