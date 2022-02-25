@@ -408,15 +408,14 @@ nav ul li a{
     
     .aimg p{
         text-align: center;
-         height: 30%;
-        width: auto;
-        margin: 0%;
-        padding: 0%;
     }
 
     .aimg p img{
-        height: 40%;
         width: auto;
+        height: 30%;
+        width: auto;
+        margin: 0%;
+        padding: 0%;
     }
 
     .inside{
